@@ -1,9 +1,5 @@
 # 🌟 KegiatanKu - Aplikasi Manajemen Kegiatan Sosial & Relawan
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 **KegiatanKu** adalah platform digital (Berbasis Web & Mobile) yang dirancang khusus untuk mempermudah pendaftaran, manajemen, dan verifikasi relawan dalam berbagai kegiatan sosial. Aplikasi ini dilengkapi dengan **sistem gamifikasi** interaktif untuk meningkatkan antusiasme peserta!
 
 ---
@@ -53,4 +49,4 @@
    ```
 
 ---
-*Dibuat untuk tugas/project akhir oleh [Nama Lu]*
+*Dibuat untuk project akhir oleh [Rafi]*
